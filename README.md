@@ -269,6 +269,10 @@ Wang, Z.-W. and Braunstein, S. L. "Surfaces Do Not Generally Obey Thermodynamics
 
 ---
 
+
+<img width="1988" height="3047" alt="image" src="https://github.com/user-attachments/assets/b9b6b5fd-010e-4765-bfd9-d428c7e49ac8" />
+
+---
 ERI Labs · Eric Ren · Jersey City, New Jersey · github.com/ericrenone · April 2026
 
 Seven programmes found the same entanglement gradient from seven directions. Jacobson derived the Einstein equation from it. Van Raamsdonk showed it constitutes connectivity. Maldacena and Susskind identified it with wormholes. Cao, Carroll, and Michalakis constructed geometry from it. Verlinde derived dark matter from it. Sahakian validated it numerically from Matrix theory. TH$(a,d)$ encodes it algebraically in a single parameter $d$.
